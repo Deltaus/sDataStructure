@@ -1,0 +1,3 @@
+/Users/deltau/MyProjects/SC/Data Structure/assignment-6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deltau/MyProjects/SC/Data Structure/assignment-6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deltau/MyProjects/SC/Data Structure/assignment-6/cmake-build-debug/CMakeFiles/assignment_6.dir
